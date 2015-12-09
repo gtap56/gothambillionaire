@@ -15,7 +15,7 @@ Build a WordPress based keyword-optimized site in fewer clicks.
 
 Use case
 
-Jon wants to build a 150 page website for adsense. He logs in with his subscription to project bubblegum. He creates a site profile for veganfries.com, he sets up semrush, wplogin and editor login, hirewriters logins. He adds $300 to his hirewriters account. Wordpress site is synced and count of posts is updated to reflect what’s up there. Posts 1, word count:0.
+Jon wants to build a 150 page website for adsense. He logs in with his account. He creates a site profile for veganfries.com, he sets up semrush, wplogin and editor login, hirewriters logins. He adds $300 to his hirewriters account. Wordpress site is synced and count of posts is updated to reflect what’s up there. Posts 1, word count:0.
 
  He starts building by searching for his competition’s site’s keywords. He gets 90 and they are added to his queue. They add up to 10948 volume and average competition of .02 percent. He looks up a few more keywords and adds them to the queue, now he has 150 keywords. He saves them(autosaved).
 
